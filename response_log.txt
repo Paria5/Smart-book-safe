@@ -1,0 +1,8 @@
+2024-03-10 15:40:56: Temperature: 19 °C, Humidity: 5
+2024-03-10 15:40:59: 1 %,Gas intensity: 243 , Light internsity: 2
+2024-03-10 15:41:01: Temperature: 19 °C, Humidity: 51 %,Gas intensity: 253 , Light internsity: 17
+2024-03-10 15:41:02: Temperature: 19 °C, Humidity: 51 %,Gas intensity: 251 , Light internsity: 0
+2024-03-10 15:41:24: Temperature: 19 °C, Humidity: 51 %,Gas intensity: 248 , Light internsity: 19
+2024-03-10 15:41:26: Temperature: 19 °C, Humidity: 51 %,Gas intensity: 255 , Light internsity: 0
+2024-03-10 15:43:07: Temperature: 19 °C, Humidity: 51 %,Gas intensity: 255 , Light internsity: 4
+2024-03-11 14:44:12: Temperature: 21 °C, Hum
