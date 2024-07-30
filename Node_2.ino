@@ -1,4 +1,3 @@
-Paria Almassian, [3/8/2024 12:13 PM]
 #include <Keypad.h>
 #include "WiFi_NTU.h"
 #include <Servo.h>
@@ -172,7 +171,6 @@ void loop()
             incorrectAttempts++; // Increment incorrect attempts counter
           if(incorrectAttempts >= 3) {
 
-Paria Almassian, [3/8/2024 12:13 PM]
 soundAlarm(); // Trigger alarm after 3 incorrect attempts
             incorrectAttempts = 0; // Reset counter after triggering alarm
             State=0;
